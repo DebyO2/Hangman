@@ -7,3 +7,6 @@ Answer : yes ,just add a lil credit pls
 # How to run
 
 ```python main.py```
+
+# Problem : requests module is not found
+Solution : ```pip install requests```
